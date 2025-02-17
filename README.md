@@ -1,7 +1,7 @@
-# Fraud Detection Project
-### Project Overview
-This project aims at predicting credit card fraudalant transactions using a logistic regression classifier model. 
+# Data Analysis Projects
+### Scope
+This repository consists of the demo projects created on Python and Tableau. 
 ### Data Source 
-https://www.kaggle.com/datasets/isaikumar/creditcardfraud?select=creditcard.csv
+https://www.kaggle.com/datasets/
 ### Tools 
-Logistic Regression
+Tableau Dashboard, Jupyter Notebooks
